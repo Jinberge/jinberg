@@ -6,7 +6,8 @@
     <span>&copy; {{ now.Year }} <a href="{{ "" | absLangURL }}">{{ site.Title }}</a></span>
     {{- end }}
     <span>
-        last build at {{ now.Format "2006-1-2 15:04" }}.
+       Last build  at {{ now.Format "2006-1-2 15:04" }}  by <a  href="https:/vercel.com" target="_blank" rel="noopener">Vercel</a>.
+
     </span>
 </footer>
 {{- end }}
