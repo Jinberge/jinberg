@@ -1,12 +1,11 @@
 ---
-author: "Jinsong"
+author: "Jinberg"
 title: "一个测试"
 date: "2023-01-06"
 description: "Lorem Ipsum Dolor Si Amet"
 tags: ["markdown", "text"]
-hideMeta: true
+hideMeta: false
 
-ShowBreadCrumbs: false
 ---
 
 这是一个示意图啊。
