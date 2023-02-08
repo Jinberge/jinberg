@@ -1,5 +1,5 @@
-baseURL: "https://hugo-sepia-psi.vercel.app/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-title: 今堡
+baseURL: "https://jinberg.com/" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+title: Jinberg
 paginate: 5
 theme: PaperMod
 defaultContentLanguage: zh
@@ -27,6 +27,9 @@ languages:
           series: series
         menu:
             main:
+                - name: 关于
+                  url: /about/
+                  weight: 0
                 - name: 归档
                   url: /archives/
                   weight: 5
@@ -70,6 +73,9 @@ languages:
                   url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
         menu:
            main:
+                - name: About
+                  url: /about/
+                  weight: 0
                 - name: Archives
                   url: archives
                   weight: 5
