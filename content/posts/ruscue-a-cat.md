@@ -10,6 +10,6 @@ tags: ["markdown", "text"]
 
 ![img](/images/hero.webp "巴黎圣母院")
 
-伟大的发哲学家们：
+伟大的法哲学家们：
 
 {{< gallery "images/heros" >}}
