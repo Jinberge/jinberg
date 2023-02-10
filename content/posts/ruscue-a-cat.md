@@ -1,7 +1,7 @@
 ---
 author: "Jinberg"
 title: "一个测试"
-date: "2023-01-06"
+date: "2023-2-6"
 description: "Lorem Ipsum Dolor Si Amet"
 tags: ["markdown", "text"]
 ---
