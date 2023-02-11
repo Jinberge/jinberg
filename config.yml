@@ -14,7 +14,7 @@ timeZone: "Asia/Shanghai"
 hasCJKLanguage: true
 
 permalinks:
-  posts: /:filename/
+  posts: "/:filename/"
 
 
 minify:
