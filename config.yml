@@ -11,6 +11,10 @@ buildExpired: false
 enableEmoji: true
 pygmentsUseClasses: true
 timeZone: "Asia/Shanghai"
+hasCJKLanguage: true
+
+permalinks:
+  posts: /:filename/
 
 
 minify:
