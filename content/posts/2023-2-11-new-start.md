@@ -1,7 +1,7 @@
 ---
 author: "Jinberg"
 title: "开篇：翻篇儿"
-date: "2023-2-6"
+date: 2023-02-06
 description: "或许，这儿，就是见证奇迹的地方。"
 tags: ["生活"]
 ---

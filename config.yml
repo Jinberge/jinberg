@@ -44,8 +44,6 @@ languages:
                 - name: 标签
                   url: /tags/
                   weight: 10
-                - name: 系列
-                  url: /series/
                   weight: 20
                 - name: 相册
                   url: /photos/
@@ -90,9 +88,6 @@ languages:
                 - name: Tags
                   url: /tags/
                   weight: 10
-                - name: Series
-                  url: /series
-                  weight: 20
                 - name: Gallary
                   url: /photos/
                   weight: 30
