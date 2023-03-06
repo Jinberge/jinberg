@@ -2,7 +2,7 @@
 author: "Jinberg"
 title: "白先勇《台北人》《孽子》读后"
 date: 2023-03-03
-description: "或许，这儿，就是见证奇迹的地方。"
+description: "哪怕只是像这个春日午后任性随意地写几个不知所云的字"
 tags: ["生活"]
 ---
 
